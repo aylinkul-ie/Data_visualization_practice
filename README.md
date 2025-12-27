@@ -1,15 +1,17 @@
 ## Topics Covered
 - Data exploration with Pandas
 - Visualizing trends and distributions
-- Line plots, bar charts, scatter plots
-- Data visualization with Matplotlib and Seaborn
+- Line plots, bar charts, scatter plots, boxplots
+- Data visualization with Matplotlib Seaborn and Plotly
 - Working with real-world datasets
+- Simple Linear Regression
 
 ## Tools & Libraries
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
 
 ## Project Structure
 - `notebooks/` → Notebooks for each day’s exercises
